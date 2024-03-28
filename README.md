@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Shivani</h1>
+<h3 align="center">A passionate Fontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanikashyap22&label=Profile%20views&color=1dc95f&style=flat-square" alt="prince" /></p>
-
-- 👨‍💻 currently i am working on ** DSA Questions**
 
 - 💬 Ask me about **JavaScript, React, Next js,**
 
